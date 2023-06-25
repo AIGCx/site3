@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
+baseURL = "https://aigcx.club/"
+title = "中国AIGC产业联盟"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
