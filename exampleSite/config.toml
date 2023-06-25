@@ -100,44 +100,46 @@ url = "https://themefisher.com/"
 weight = 8
 
 
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
+
+################### Chinese Navigation ########################
+[[Languages.zh-CN.menu.main]]
+name = "关于我们"
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
+[[Languages.zh-CN.menu.main]]
+name = "服务"
 url = "#services"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+[[Languages.zh-CN.menu.main]]
+name = "作品集"
 url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
+[[Languages.zh-CN.menu.main]]
+name = "团队"
 url = "#team"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
+[[Languages.zh-CN.menu.main]]
+name = "定价"
 url = "#pricing"
 weight = 5
 
-[[Languages.fr.menu.main]]
-name = "blog"
+[[Languages.zh-CN.menu.main]]
+name = "博客"
 url = "#blog"
 weight = 6
 
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.zh-CN.menu.main]]
+name = "联系我们"
 url = "#contact"
 weight = 7
 
-[[Languages.fr.menu.main]]
+[[Languages.zh-CN.menu.main]]
 name = "themefisher"
+
 url = "https://themefisher.com/"
 weight = 8
 
@@ -205,11 +207,12 @@ weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+
+################################ Chinese Language ########################
+[Languages.zh-CN]
+languageName = "简体中文"
+languageCode = "zh-cn"
+contentDir = "content/chinese"
 weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "首页"
+
