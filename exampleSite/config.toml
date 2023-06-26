@@ -40,6 +40,48 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
+################### Chinese Navigation ########################
+[[Languages.zh-CN.menu.main]]
+name = "关于我们"
+url = "#about"
+weight = 1
+
+[[Languages.zh-CN.menu.main]]
+name = "服务"
+url = "#services"
+weight = 2
+
+[[Languages.zh-CN.menu.main]]
+name = "作品集"
+url = "#portfolio"
+weight = 3
+
+[[Languages.zh-CN.menu.main]]
+name = "团队"
+url = "#team"
+weight = 4
+
+[[Languages.zh-CN.menu.main]]
+name = "定价"
+url = "#pricing"
+weight = 5
+
+[[Languages.zh-CN.menu.main]]
+name = "博客"
+url = "#blog"
+weight = 6
+
+[[Languages.zh-CN.menu.main]]
+name = "联系我们"
+url = "#contact"
+weight = 7
+
+[[Languages.zh-CN.menu.main]]
+name = "themefisher"
+
+url = "https://themefisher.com/"
+weight = 8
+
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "about"
@@ -101,47 +143,7 @@ weight = 8
 
 
 
-################### Chinese Navigation ########################
-[[Languages.zh-CN.menu.main]]
-name = "关于我们"
-url = "#about"
-weight = 1
 
-[[Languages.zh-CN.menu.main]]
-name = "服务"
-url = "#services"
-weight = 2
-
-[[Languages.zh-CN.menu.main]]
-name = "作品集"
-url = "#portfolio"
-weight = 3
-
-[[Languages.zh-CN.menu.main]]
-name = "团队"
-url = "#team"
-weight = 4
-
-[[Languages.zh-CN.menu.main]]
-name = "定价"
-url = "#pricing"
-weight = 5
-
-[[Languages.zh-CN.menu.main]]
-name = "博客"
-url = "#blog"
-weight = 6
-
-[[Languages.zh-CN.menu.main]]
-name = "联系我们"
-url = "#contact"
-weight = 7
-
-[[Languages.zh-CN.menu.main]]
-name = "themefisher"
-
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
@@ -197,17 +199,6 @@ link = "#"
 icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
-home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-
 ################################ Chinese Language ########################
 [Languages.zh-CN]
 languageName = "简体中文"
@@ -216,3 +207,15 @@ contentDir = "content/chinese"
 weight = 1
 home = "首页"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 3
+home = "Home"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+
