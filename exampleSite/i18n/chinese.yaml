@@ -13,13 +13,13 @@
 - id: all
   translation: 全部
 - id: about
-  translation: 关于
+  translation: 关于我们
 - id: services
   translation: 服务
 - id: portfolio
-  translation: 作品集
+  translation: 联盟成员产业产品
 - id: team
-  translation: 团队
+  translation: 联盟成员
 - id: pricing
   translation: 定价
 - id: blog
