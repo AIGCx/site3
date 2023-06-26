@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : 我们是中国AIGC产业联盟
+  content : "增加交流和合作"
   feature_item : 
       # feature item loop
     - title : SEO Optimized
