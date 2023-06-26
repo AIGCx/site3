@@ -1,3 +1,6 @@
+defaultContentLanguage = "zh-CN"
+defaultContentLanguageInSubdir = true
+
 ################################# Default configuration ###################
 baseURL = "https://aigcx.club/"
 title = "中国AIGC产业联盟"
@@ -147,8 +150,6 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-defaultContentLanguage = "zh-CN"
-defaultContentLanguageInSubdir = true
 logo = "images/logo.png"
 # Meta data
 description = "作困难但正确之事 把不可能变成可能"
