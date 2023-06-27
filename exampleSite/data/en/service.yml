@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Promote community building and event organization in various regions
   service_item :
     # service item loop
     - name : WordPress Theme
