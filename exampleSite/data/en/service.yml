@@ -6,7 +6,8 @@ service:
     # service item loop
     - name : Strengthen Top-level Design
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 为什么不能改?
+
       
     # service item loop
     - name : Responsive Design
