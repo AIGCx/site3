@@ -6,23 +6,7 @@ feature:
   title : 中国AIGC产业联盟
   content : "中国AIGC产业联盟（AIGCxChina）是一个松散型公益社群，致力于在中国推动产业更好对接AIGC技术，推动社会更好普及AIGC技能，是专家和媒体公认的国内第一个AIGC领域的全国性专业社群。AIGCxChina设置由志愿者维护的秘书处，指导各地做好社群营造、活动策划和品牌管理。AIGCxChina的成员来自全国各地，已在温州、北京、上海、广州、深圳、杭州、成都、武汉、香港等地建立20多个城市级社群，实现了中国经济30强城市的半数覆盖。"
   feature_item : 
-      # feature item loop
-    #- title : SEO Optimized
-      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    #- title : Easy Customization
-      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - image : images/about/qrcode.jpg
+      image_webp : images/about/qrcode.webp
 
-      # feature item loop
-    #- title : SEO Optimized
-      #icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    #- title : Easy Customization
-      #icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
