@@ -1,12 +1,12 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : 推动各地社群营造与活动组织
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : 加强顶层设计
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 是不能太长？
       
     # service item loop
     - name : Responsive Design
