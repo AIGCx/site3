@@ -6,7 +6,9 @@ service:
     # service item loop
     - name : Strengthen Top-level Design
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : 为什么不能改?
+      content : "1. Consensus. AIGCxChina aims to promote the application of AIGC technology in China and serve the upgrading of industries. AIGCxChina aggregates opinions from all parties in the form of a white paper to form a collective consensus. AIGC researchers, practitioners, and managers who agree with the consensus are welcome to join.
+2. Co-construction. Volunteers from various regions can apply to become initiators of AIGC industry alliances authorized by AIGCxChina, and obtain the right to use relevant AIGCxChina brands to carry out related activities locally.
+3. Sharing. AIGCxChina builds a national public welfare service community, creates communication platforms and dissemination networks, promotes communication and cooperation among various regions, achieves win-win results, and realizes the co-creation, co-construction, co-governance, and sharing of all members."
 
       
     # service item loop

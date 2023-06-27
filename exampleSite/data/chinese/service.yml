@@ -6,8 +6,9 @@ service:
     # service item loop
     - name : 加强顶层设计
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : "1. 共识。AIGCxChina以推动AIGC技术在中国应用落地，服务产业升级为目标。AIGCxChina以白皮书方式，聚合各方意见，形成集体共识，欢迎所有加纳共识的AIGC领域研究者、实践者和管理者加入。
+2. 共建。各地志愿者可申请成为AIGCxChina授权的城市AIGC产业联盟的发起人，获得使用AIGCxChina相关品牌在当地开展相关活动的权利。
+3. 共享。AIGCxChina搭建全国性公益服务社群，打造沟通平台和传播网络，推动各地间增进交流、加强合作、实现共赢，实现全体成员的共创、共建、共治、共享。"
     # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
