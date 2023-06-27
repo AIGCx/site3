@@ -4,10 +4,13 @@ service:
   title : Promote community building and event organization in various regions
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Strengthen Top-level Design
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : 1. Consensus. AIGCxChina aims to promote the application of AIGC technology in China and serve the upgrading of industries. AIGCxChina aggregates opinions from all parties in the form of a white paper to form a collective consensus. All AIGC researchers, practitioners, and managers who agree with the consensus are welcome to join.
+2. Co-construction. Volunteers from various regions can apply to become initiators of AIGC industry alliances authorized by AIGCxChina, and obtain the right to use AIGCxChina's related brands to carry out relevant activities locally.
+3. Sharing. AIGCxChina builds a national public service community, creates communication platforms and dissemination networks, promotes communication and cooperation among various regions, achieves win-win results, and realizes the co-creation, co-construction, co-governance, and sharing of all members.
+
+
     # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons

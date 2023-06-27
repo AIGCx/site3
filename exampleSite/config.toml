@@ -50,7 +50,7 @@ url = "#about"
 weight = 1
 
 [[Languages.zh-CN.menu.main]]
-name = "推动各地社群营造与活动组织"
+name = "规范"
 url = "#services"
 weight = 2
 
@@ -91,7 +91,7 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Promote community building and event organization in various regions"
+name = "Standards"
 url = "#services"
 weight = 2
 
