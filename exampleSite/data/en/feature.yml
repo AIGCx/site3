@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : 中国AIGC产业联盟
+  title : AIGCxChina
   content : "AIGCxChina is a loose public welfare community dedicated to promoting industry to better connect with AIGC technology in China, and promoting the better popularization of AIGC skills in the society, and is recognized by experts and media as the first national professional community in the field of AIGC in China. With members from all over China, AIGCxChina has established more than 20 city-level communities in Wenzhou, Beijing, Shanghai, Guangzhou, Shenzhen, Hangzhou, Chengdu, Wuhan and Hong Kong, covering half of the top 30 cities in China's economy."
   feature_image : images/about/qrcode.jpg
   feature_image: images/about/qrcode.webp
