@@ -17,10 +17,19 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="media">
-								<img src="{{ $data.feature.feature.feature_image | absURL }}" alt="Feature Image" style="max-width: 50%; display: block; margin: 0 auto;">
-								<p>{{ .join_message }}</p>
+								<div style="display: flex; justify-content: space-between;">
+									<div style="text-align: center;">
+										<img src="{{ $data.feature.feature.feature_image1 | absURL }}" alt="Feature Image 1" style="max-width: 45%; display: block; margin: 0 auto;">
+										<p style="color: white; font-size: 1.2em;">{{ .join_message1 }}</p>
 
+									</div>
+									<div style="text-align: center;">
+										<img src="{{ $data.feature.feature.feature_image2 | absURL }}" alt="Feature Image 2" style="max-width: 45%; display: block; margin: 0 auto;">
+										<p style="color: white; font-size: 1.2em;">{{ .join_message2 }}</p>
+									</div>
+								</div>
 							</div>
+							
 						</div>
 					</div>
 				</div>
