@@ -18,6 +18,8 @@
 						<div class="col-lg-6">
 							<div class="media">
 								<img src="{{ .Site.BaseURL }}{{ .feature_image }}" alt="Feature Image">
+								<img src="{{ $data.feature.feature.feature_image | absURL }}" alt="Feature Image">
+
 							</div>
 						</div>
 					</div>
