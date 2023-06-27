@@ -50,17 +50,17 @@ url = "#about"
 weight = 1
 
 [[Languages.zh-CN.menu.main]]
-name = "服务"
+name = "推动各地社群营造与活动组织"
 url = "#services"
 weight = 2
 
 [[Languages.zh-CN.menu.main]]
-name = "作品集"
+name = "联盟产业产品"
 url = "#portfolio"
 weight = 3
 
 [[Languages.zh-CN.menu.main]]
-name = "团队"
+name = "成员展示"
 url = "#team"
 weight = 4
 
@@ -70,7 +70,7 @@ url = "#pricing"
 weight = 5
 
 [[Languages.zh-CN.menu.main]]
-name = "博客"
+name = "资讯及活动"
 url = "#blog"
 weight = 6
 
@@ -81,7 +81,6 @@ weight = 7
 
 [[Languages.zh-CN.menu.main]]
 name = "themefisher"
-
 url = "https://themefisher.com/"
 weight = 8
 
@@ -92,7 +91,7 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Promote community building and event organization in various regions"
 url = "#services"
 weight = 2
 
