@@ -1,4 +1,4 @@
-defaultContentLanguage = "zh-CN"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
 ################################# Default configuration ###################
@@ -44,42 +44,42 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### Chinese Navigation ########################
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "关于我们"
 url = "#about"
 weight = 1
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "规范"
 url = "#services"
 weight = 2
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "联盟产业产品"
 url = "#portfolio"
 weight = 3
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "成员展示"
 url = "#team"
 weight = 4
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "定价"
 url = "#pricing"
 weight = 5
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "资讯及活动"
 url = "#blog"
 weight = 6
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "联系我们"
 url = "#contact"
 weight = 7
 
-[[Languages.zh-CN.menu.main]]
+[[Languages.zh.menu.main]]
 name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
@@ -204,9 +204,9 @@ link = "#"
 
 
 ################################ Chinese Language ########################
-[Languages.zh-CN]
+[Languages.zh]
 languageName = "简体中文"
-languageCode = "zh-cn"
+languageCode = "zh"
 contentDir = "content/chinese"
 weight = 1
 home = "主页"
