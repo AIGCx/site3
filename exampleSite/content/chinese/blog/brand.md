@@ -5,5 +5,5 @@ image_webp: images/blog/brand.webp
 image: images/blog/brand.jpg
 author: AIGCX
 description: "This is meta description"
-external_link: "https://example.com/your-external-link"
+external_link: "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
 ---
