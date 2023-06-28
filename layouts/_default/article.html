@@ -5,9 +5,9 @@
     </div>
 
     <div class="content">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <h3><a href="{{ if .Params.external_link }}{{ .Params.external_link }}{{ else }}{{ .Permalink }}{{ end }}">{{ .Title }}</a></h3>
       <p>{{ .Summary }}</p>
-      <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
+      <a class="btn btn-transparent" href="{{ if .Params.external_link }}{{ .Params.external_link }}{{ else }}{{ .Permalink }}{{ end }}">{{ i18n "readMore" }}</a>
     </div>
   </div>
 </article>
