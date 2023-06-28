@@ -218,7 +218,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "exampleSite/content/english"
+contentDir = "content/english"
 weight = 3
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
