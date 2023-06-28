@@ -207,7 +207,7 @@ link = "#"
 [Languages.zh-CN]
 languageName = "简体中文"
 languageCode = "zh-cn"
-contentDir = "exampleSite/content/chinese"
+contentDir = "content/chinese"
 weight = 1
 home = "主页"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -218,7 +218,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "exampleSite/content/english"
 weight = 3
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
