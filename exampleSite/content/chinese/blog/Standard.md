@@ -5,5 +5,6 @@ image_webp: images/blog/blog-post-8.webp
 image: images/blog/blog-post-8.jpg
 author: AIGCX
 external_link: "https://mp.weixin.qq.com/s/2j_VIfxU0hVADR_RcIpm9A"
+weight: 1
 ---
 
