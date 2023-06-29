@@ -26,9 +26,4 @@ service:
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : "城市发起人需在授权后1个月内明确目标、建立团队，年内完成8场活动，包括研讨和比赛，报告发至AIGCxChina发布。
 欢迎复制举办过的比赛和活动，可参考已有模板。各地联盟应创新活动，发挥AIGC优势，配合经信和网信部门合规工作，联动媒体提升曝光度。使用AIGCx品牌标志的大型活动需向AIGCxChina秘书处报批，得到授权。在推动AIGC技术应用时，需遵守法律法规、公序良俗，避免风险，不得利用AIGCxChina谋取私利。AIGCxChina秘书处和AIGCxWenzhou会为各地组织提供技术指导和资源支持，支持跨城市联办活动。详见《白皮书》"
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
     
