@@ -212,15 +212,6 @@ weight = 1
 home = "主页"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
-[Languages.zh-CN.params.social]
-  [[Languages.zh-CN.params.social.media]]
-    name = "微信公众号：AIGCx"
-    icon = "fab fa-weixin"
-    url = "https://mp.weixin.qq.com/s/2j_VIfxU0hVADR_RcIpm9A"
-  [[Languages.zh-CN.params.social.media]]
-    name = "填写表格：加入或联系我们"
-    icon = "fas fa-link"
-    url = "https://shimo.im/forms/1lq7rO2GXLs5rV3e/fill"
 
 
 ################################ English Language ########################
