@@ -55,7 +55,7 @@ url = "#services"
 weight = 2
 
 [[Languages.zh.menu.main]]
-name = "联盟产业产品"
+name = "热点"
 url = "#portfolio"
 weight = 3
 
@@ -65,8 +65,8 @@ url = "#team"
 weight = 4
 
 [[Languages.zh.menu.main]]
-name = "定价"
-url = "#pricing"
+name = "顾问团及秘书处"
+url = "#testimonial"
 weight = 5
 
 [[Languages.zh.menu.main]]
@@ -106,8 +106,8 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = "Advisory Group and Secretariat"
+url = "#testimonial"
 weight = 5
 
 [[Languages.en.menu.main]]

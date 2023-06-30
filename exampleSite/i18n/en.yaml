@@ -17,11 +17,11 @@
 - id: services
   translation: Service
 - id: portfolio
-  translation: Portfolio
+  translation: Hotspot
 - id: team
   translation: Team
-- id: pricing
-  translation: Pricing
+- id: testimonial
+  translation: Advisory Board and Secretariat
 - id: blog
   translation: Blog
 - id: contact

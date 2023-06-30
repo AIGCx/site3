@@ -17,11 +17,11 @@
 - id: services
   translation: 服务
 - id: portfolio
-  translation: 联盟成员产业产品
+  translation: 热点
 - id: team
   translation: 联盟成员
-- id: pricing
-  translation: 定价
+- id: testimonial
+  translation: 顾问团及秘书处
 - id: blog
   translation: 资讯
 - id: contact
