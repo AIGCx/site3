@@ -876,7 +876,7 @@ a:hover {
 .portfolio-block {
   position: relative;
 }
-
+/*
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
   background: white;
@@ -918,7 +918,7 @@ a:hover {
   transition: all 0.2s ease-in-out;
   text-align: center;
 }
-
+*/
 .portfolio-block .caption h4 {
   font-size: 16px;
   font-weight: 600;
