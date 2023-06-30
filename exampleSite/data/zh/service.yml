@@ -12,7 +12,7 @@ service:
     # service item loop
     - name : 统一品牌形象
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : "联盟标识。AIGCxChina秘书处制作了规范的品牌标识工具包和说明书，各地发起人在研讨、赛事等活动中应规范使用联盟标识，统一对外品牌形象。详情参见《联盟品牌标识规范》。
+      content : "联盟标识。AIGCxChina秘书处制作了规范的品牌标识工具包和说明书，各地发起人在研讨、赛事等活动中应规范使用联盟标识，统一对外品牌形象。详情参见[联盟品牌标识规范](https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg)。
 成员网名。可参考以下格式，阳志平@AIGCxChina、胡自然@AIGCxWenzhou。建议用实名，方便大家相互建立信任。
 网络媒体。AIGCxChina将申请开通公众号等自媒体，做好未来中国和各地联盟的重要活动和信息推广，欢迎各地开设自己的自媒体并向AIGCxChina投稿。"
     # service item loop
