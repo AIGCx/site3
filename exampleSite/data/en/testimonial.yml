@@ -5,12 +5,12 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+    - name : Secretariat of AIGC
+      image : images/client/building.jpg
+      image_webp : images/client/building.webp
+      date : Jun 30, 2023
+      content : "The Secretariat of AIGC (China AIGC Industry Alliance), abbreviated as AIGCxChina, is located in Wenzhou, with its office in the Wenzhou Fashion Intelligent Design Center, Building 2, Floors 6-9 of the World Wenzhou People's Home. The Secretariat is established by the China AIGC Industry Alliance and is operated by volunteers."
+
     # testimonial item loop
     - name : Mark Dinn
       image : images/client/client-2.jpg

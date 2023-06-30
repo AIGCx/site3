@@ -5,11 +5,11 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : 秘书处
+      image : images/client/building.jpg
+      image_webp : images/client/building.webp
+      date : Jun 30, 2023
+      content : "中国AIGC产业联盟秘书处，简称AIGCxChina，设在温州，办公地点在世界温州人家园2幢6层-9层的温州时尚智造设计中心。秘书处由中国AIGC产业联盟组建，志愿者负责运维"
       
     # testimonial item loop
     - name : Mark Dinn
