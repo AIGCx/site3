@@ -25,9 +25,13 @@ service:
       content : "主要发起人。各城市联盟的最早申请人和组织者，每个城市1人，建议由具备较强创新意识和动员能力的连接者担任，由所在城市的志愿者向AIGCxChina申请后获得授权后认定。可使用实名+联盟后缀的方式加入AIGCxChina全国总群。表现突出的，未来可以提名为大区发起人。
 联合发起人。各城市主要发起人的主要合作伙伴，每个城市约3-5人，建议邀请技术、媒体、产业、智库等背景的专业人士加入，由所在城市联盟主要发起人认定，报AIGCxChina备案。可在城市主要发起人的推荐下，使用实名+联盟后缀的方式加入AIGCxChina全国总群。
 志愿者。各城市联盟的其他参与者，人数不限，可由所在城市发起人自行决定，邀请加入所在城市的地方小群。也可由AIGCxChina直接推荐和邀请。"
+      button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
+      button_text : "成员权责"
     # service item loop
     - name : 鼓励实践创新
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : "城市发起人需在授权后1个月内明确目标、建立团队，年内完成8场活动，包括研讨和比赛，报告发至AIGCxChina发布。
-欢迎复制举办过的比赛和活动，可参考已有模板。各地联盟应创新活动，发挥AIGC优势，配合经信和网信部门合规工作，联动媒体提升曝光度。使用AIGCx品牌标志的大型活动需向AIGCxChina秘书处报批，得到授权。在推动AIGC技术应用时，需遵守法律法规、公序良俗，避免风险，不得利用AIGCxChina谋取私利。AIGCxChina秘书处和AIGCxWenzhou会为各地组织提供技术指导和资源支持，支持跨城市联办活动。详见《白皮书》"
+欢迎复制举办过的比赛和活动，可参考已有模板。各地联盟应创新活动，发挥AIGC优势，配合经信和网信部门合规工作，联动媒体提升曝光度。使用AIGCx品牌标志的大型活动需向AIGCxChina秘书处报批，得到授权。在推动AIGC技术应用时，需遵守法律法规、公序良俗，避免风险，不得利用AIGCxChina谋取私利。AIGCxChina秘书处和AIGCxWenzhou会为各地组织提供技术指导和资源支持，支持跨城市联办活动。"
+      button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
+      button_text : "过往活动"
     
