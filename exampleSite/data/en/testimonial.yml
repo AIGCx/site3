@@ -6,8 +6,8 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Secretariat of AIGC
-      image : images/client/building.jpg
-      image_webp : images/client/building.webp
+      image : images/client/buildiing.jpg
+      image_webp : images/client/buildiing.webp
       date : Jun 30, 2023
       content : "The Secretariat of AIGC (China AIGC Industry Alliance), abbreviated as AIGCxChina, is located in Wenzhou, with its office in the Wenzhou Fashion Intelligent Design Center, Building 2, Floors 6-9 of the World Wenzhou People's Home. The Secretariat is established by the China AIGC Industry Alliance and is operated by volunteers."
 

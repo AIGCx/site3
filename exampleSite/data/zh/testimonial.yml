@@ -6,8 +6,8 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : 秘书处
-      image : images/client/building.jpg
-      image_webp : images/client/building.webp
+      image : images/client/buildiing.jpg
+      image_webp : images/client/buildiing.webp
       date : Jun 30, 2023
       content : "中国AIGC产业联盟秘书处，简称AIGCxChina，设在温州，办公地点在世界温州人家园2幢6层-9层的温州时尚智造设计中心。秘书处由中国AIGC产业联盟组建，志愿者负责运维"
       
