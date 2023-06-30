@@ -6,5 +6,4 @@ image: images/blog/brand.jpg
 author: AIGCX
 description: "This is meta description"
 external_link: "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
-weight: 2
 ---
