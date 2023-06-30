@@ -346,7 +346,7 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #cfcfcf;
+  color: #fff;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
 }
@@ -2297,3 +2297,4 @@ figcaption {
 .cookie-box-hide {
   display: none;
 }
+
