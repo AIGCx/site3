@@ -59,10 +59,10 @@ name = "热点"
 url = "#portfolio"
 weight = 3
 
-[[Languages.zh.menu.main]]
-name = "成员展示"
-url = "#team"
-weight = 4
+# [[Languages.zh.menu.main]]
+# name = "成员展示"
+# url = "#team"
+# weight = 4
 
 [[Languages.zh.menu.main]]
 name = "顾问团及秘书处"
@@ -100,10 +100,10 @@ name = "portfolio"
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "team"
+# url = "#team"
+# weight = 4
 
 [[Languages.en.menu.main]]
 name = "Advisory Group and Secretariat"
