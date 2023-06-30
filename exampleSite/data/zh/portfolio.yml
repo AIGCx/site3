@@ -8,8 +8,8 @@ portfolio:
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      content : "AIGC是新时代的工业革命"
+      link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
       
     # portfolio item loop
     - name : Sound system
@@ -23,7 +23,7 @@ portfolio:
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : [ "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -39,7 +39,7 @@ portfolio:
     - name : Shopping Bag
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+      categories : ["每日寄语"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -71,6 +71,6 @@ portfolio:
     - name : Tag Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["每日寄语", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
