@@ -1,78 +1,63 @@
-################################# Testimonial #########################
+# Testimonial
 testimonial:
-  enable : true
-  bg_image : images/client/buildiing.jpg
-  bg_image_webp : images/client/buildiing.webp
-  testimonial_item :
- 
-     # testimonial item loop
-    - name : 顾问团
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "为了更好推动中国AIGC产业联盟发展，指导技术对接产业，帮助各地相互联动，AIGCxChina秘书处联系邀请了一批国内外知名专家和企业家加入中国AIGC产业联盟的顾问团，现将名单公布如下（排名不分先后，按姓氏笔划为序"
-    
-    # testimonial item loop
-    - name : 于扬
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "曾提出「互联网化」「互联网+」等概念，是科技趋势专家，易观国际集团创始人，董事长兼CEO，资深互联网行业专家"
-    # testimonial item loop
-    - name : 王湛
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "数字营销专家，金砖资本董事总经理，前百度资深副总裁"
-    # testimonial item loop
-    - name : 王煜全
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "科技趋势专家，海银资本创始合伙人、Frost & Sullivan中国区首席顾问"
-    # testimonial item loop
-    - name : 苏葆燕
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "时尚经济专家，中国服装设计师协会原秘书长、副主席，兼任亚洲时尚联合会中国委员会秘书长"
-    # testimonial item loop
-    - name : 沈阳
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "元宇宙专家，清华大学新闻与传播学院元宇宙文化实验室主任，教授、博导"
-    # testimonial item loop
-    - name : 徐扬
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "数字营销专家，微播易CEO，百度早期员工"
-    # testimonial item loop
-    - name : 胡泳
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "互联网专家，北京大学新闻与传播学院教授，博导，信息社会50人论坛成员，北京信息社会研究所学术委员会主席"
-    # testimonial item loop
-    - name : 黄剑辉
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "民营经济专家，中国民营经济研究会副会长，华夏新供给经济学研究院首席经济学家，全国工商联智库委员会委员"
-    # testimonial item loop
-    - name : 蔡跃洲
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "数字经济专家，中国社会科学院数量与技术经济研究所数字经济研究室主任，研究员，博导"
-
-    # testimonial item loop
-    - name : 秘书处
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "中国AIGC产业联盟秘书处，简称AIGCxChina，设在温州，办公地点在世界温州人家园2幢6层-9层的温州时尚智造设计中心。秘书处由中国AIGC产业联盟组建，志愿者负责运维"
-
+  enable: true
+  bg_image: images/client/buildiing.jpg
+  bg_image_webp: images/client/buildiing.webp
+  testimonial_item:
+    - name: 顾问团
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "为了更好推动中国AIGC产业联盟发展，指导技术对接产业，帮助各地相互联动，AIGCxChina秘书处联系邀请了一批国内外知名专家和企业家加入中国AIGC产业联盟的顾问团，现将名单公布如下（排名不分先后，按姓氏笔划为序）"
+    - name: 于扬
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "曾提出「互联网化」「互联网+」等概念，是科技趋势专家，易观国际集团创始人，董事长兼CEO，资深互联网行业专家"
+    - name: 王湛
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "数字营销专家，金砖资本董事总经理，前百度资深副总裁"
+    - name: 王煜全
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "科技趋势专家，海银资本创始合伙人、Frost & Sullivan中国区首席顾问"
+    - name: 苏葆燕
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "时尚经济专家，中国服装设计师协会原秘书长、副主席，兼任亚洲时尚联合会中国委员会秘书长"
+    - name: 沈阳
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "元宇宙专家，清华大学新闻与传播学院元宇宙文化实验室主任，教授、博导"
+    - name: 徐扬
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "数字营销专家，微播易CEO，百度早期员工"
+    - name: 胡泳
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "互联网专家，北京大学新闻与传播学院教授，博导，信息社会50人论坛成员，北京信息社会研究所学术委员会主席"
+    - name: 黄剑辉
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "民营经济专家，中国民营经济研究会副会长，华夏新供给经济学研究院首席经济学家，全国工商联智库委员会委员"
+    - name: 蔡跃洲
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "数字经济专家，中国社会科学院数量与技术经济研究所数字经济研究室主任，研究员，博导"
+    - name: 秘书处
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "中国AIGC产业联盟秘书处，简称AIGCxChina，设在温州，办公地点在世界温州人家园2幢6层-9层的温州时尚智造设计中心。秘书处由中国AIGC产业联盟组建，志愿者负责运维"
 
 

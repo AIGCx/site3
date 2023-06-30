@@ -1,79 +1,74 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
-  bg_image : images/client/buildiing.jpg
-  bg_image_webp : images/client/buildiing.webp
-  testimonial_item :
- 
-     # testimonial item loop
-    - name : Advisory Group
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "In order to better promote the development of the China AIGC Industry Alliance, guide the technology docking industry, and help various regions to interact with each other, the AIGCxChina Secretariat has invited a group of well-known experts and entrepreneurs at home and abroad to join the advisory group of the China AIGC Industry Alliance. The list is now announced as follows (in no particular order, according to the stroke order of the surname)"
-    
+  enable: true
+  bg_image: images/client/buildiing.jpg
+  bg_image_webp: images/client/buildiing.webp
+  testimonial_item:
     # testimonial item loop
-    - name : Yu Yang
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "He proposed concepts such as 'Internetization' and 'Internet+', is a technology trend expert, founder, chairman and CEO of Analysys International Group, and a senior expert in the Internet industry."
+    - name: Advisory Group
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "In order to better promote the development of the China AIGC Industry Alliance, guide the technology docking industry, and help various regions to interact with each other, the AIGCxChina Secretariat has invited a group of well-known experts and entrepreneurs at home and abroad to join the advisory group of the China AIGC Industry Alliance. The list is now announced as follows (in no particular order, according to the stroke order of the surname)"
     # testimonial item loop
-    - name : Wang Zhan
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Digital marketing expert, Managing Director of BRIC Capital, former Senior Vice President of Baidu"
+    - name: Yu Yang
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "He proposed concepts such as 'Internetization' and 'Internet+', is a technology trend expert, founder, chairman and CEO of Analysys International Group, and a senior expert in the Internet industry."
     # testimonial item loop
-    - name : Wang Yuquan
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Technology trend expert, founding partner of Haiyin Capital, and Chief Advisor of Frost & Sullivan China"
+    - name: Wang Zhan
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Digital marketing expert, Managing Director of BRIC Capital, former Senior Vice President of Baidu"
     # testimonial item loop
-    - name : Su Baoyan
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Fashion economy expert, former Secretary-General and Vice Chairman of the China Fashion Designers Association, and Secretary-General of the Asian Fashion Federation China Committee"
+    - name: Wang Yuquan
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Technology trend expert, founding partner of Haiyin Capital, and Chief Advisor of Frost & Sullivan China"
     # testimonial item loop
-    - name : Shen Yang
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Metaverse expert, Director of the Metaverse Culture Laboratory of the School of Journalism and Communication, Tsinghua University, Professor, and Doctoral Supervisor"
+    - name: Su Baoyan
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Fashion economy expert, former Secretary-General and Vice Chairman of the China Fashion Designers Association, and Secretary-General of the Asian Fashion Federation China Committee"
     # testimonial item loop
-    - name : Xu Yang
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Digital marketing expert, CEO of Weibo Yi, and early employee of Baidu"
+    - name: Shen Yang
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Metaverse expert, Director of the Metaverse Culture Laboratory of the School of Journalism and Communication, Tsinghua University, Professor, and Doctoral Supervisor"
     # testimonial item loop
-    - name : Hu Yong
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Internet expert, Professor and Doctoral Supervisor of the School of Journalism and Communication, Peking University, member of the Information Society 50 Forum, and Chairman of the Academic Committee of the Beijing Institute of Information Society"
+    - name: Xu Yang
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Digital marketing expert, CEO of Weibo Yi, and early employee of Baidu"
     # testimonial item loop
-    - name : Huang Jianhui
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Private economy expert, Vice Chairman of the China Private Economy Research Association, Chief Economist of Huaxia New Supply-side Economics Research Institute, and member of the Think Tank Committee of the All-China Federation of Industry and Commerce"
+    - name: Hu Yong
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Internet expert, Professor and Doctoral Supervisor of the School of Journalism and Communication, Peking University, member of the Information Society 50 Forum, and Chairman of the Academic Committee of the Beijing Institute of Information Society"
     # testimonial item loop
-    - name : Cai Yuezhou
-          image : images/favicon.png
-          image_webp : images/favicon.webp
-          date : Jun 30, 2023
-          content : "Digital economy expert, Director of the Digital Economy Research Office of the Institute of Quantitative and Technical Economics, Chinese Academy of Social Sciences, Researcher, and Doctoral Supervisor"
-
+    - name: Huang Jianhui
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Private economy expert, Vice Chairman of the China Private Economy Research Association, Chief Economist of Huaxia New Supply-side Economics Research Institute, and member of the Think Tank Committee of the All-China Federation of Industry and Commerce"
     # testimonial item loop
-    - name : Secretariat
-      image : images/favicon.png
-      image_webp : images/favicon.webp
-      date : Jun 30, 2023
-      content : "The China AIGC Industry Alliance Secretariat, referred to as AIGCxChina, is located in Wenzhou and is located in the Wenzhou Fashion Smart Manufacturing Design Center on the 6th-9th floors of Building 2 of the World Wenzhou People's Park. The Secretariat is organized by the China AIGC Industry Alliance and is operated by volunteers."
-
-
+    - name: Cai Yuezhou
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "Digital economy expert, Director of the Digital Economy Research Office of the Institute of Quantitative and Technical Economics, Chinese Academy of Social Sciences, Researcher, and Doctoral Supervisor"
+    # testimonial item loop
+    - name: Secretariat
+      image: images/favicon.png
+      image_webp: images/favicon.webp
+      date: Jun 30, 2023
+      content: "The China AIGC Industry Alliance Secretariat, referred to as AIGCxChina, is located in Wenzhou and is located in the Wenzhou Fashion Smart Manufacturing Design Center on the 6th-9th floors of Building 2 of the World Wenzhou People's Park. The Secretariat is organized by the China AIGC Industry Alliance and is operated by volunteers."
 
 
