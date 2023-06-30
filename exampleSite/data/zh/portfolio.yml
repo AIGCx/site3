@@ -1,13 +1,13 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : 热点
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : "胡泳"
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+      categories : ["每日寄语"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
