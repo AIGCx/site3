@@ -74,15 +74,15 @@ name = "资讯及活动"
 url = "#blog"
 weight = 6
 
-[[Languages.zh.menu.main]]
-name = "联系我们"
-url = "#contact"
-weight = 7
+# [[Languages.zh.menu.main]]
+# name = "联系我们"
+# url = "#contact"
+# weight = 7
 
-[[Languages.zh.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+# [[Languages.zh.menu.main]]
+# name = "themefisher"
+# url = "https://themefisher.com/"
+# weight = 8
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
@@ -96,10 +96,11 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Hotspot"
 url = "#portfolio"
 weight = 3
 
+# Commented out the following code:
 # [[Languages.en.menu.main]]
 # name = "team"
 # url = "#team"
@@ -115,33 +116,33 @@ name = "blog"
 url = "#blog"
 weight = 6
 
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
+#[[Languages.en.menu.main]]
+#name = "contact"
+#url = "#contact"
+#weight = 7
 
 
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
+#[[Languages.en.menu.main]]
+#name = "Dropdown"
+#weight = 7
+#hasChildren = true
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 1"
+#url = "#"
+#weight = 1
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 2"
+#url = "#"
+#weight = 2
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#url = "https://themefisher.com/"
+#weight = 8
 
 
 
