@@ -45,7 +45,7 @@ link = "plugins/google-map/map.js"
 
 ################### Chinese Navigation ########################
 [[Languages.zh.menu.main]]
-name = "关于我们"
+name = "大联盟"
 url = "#about"
 weight = 1
 
@@ -55,7 +55,7 @@ url = "#services"
 weight = 2
 
 [[Languages.zh.menu.main]]
-name = "热点"
+name = "专栏"
 url = "#portfolio"
 weight = 3
 

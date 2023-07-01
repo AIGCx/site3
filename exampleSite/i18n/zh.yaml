@@ -13,11 +13,11 @@
 - id: all
   translation: 全部
 - id: about
-  translation: 关于我们
+  translation: 大联盟
 - id: services
   translation: 服务
 - id: portfolio
-  translation: 热点
+  translation: 专栏
 - id: team
   translation: 联盟成员
 - id: testimonial
