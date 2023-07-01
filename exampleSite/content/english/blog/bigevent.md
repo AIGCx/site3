@@ -6,5 +6,7 @@ image: images/blog/bigevent.jpg
 author: AIGCX
 description: "This is meta description"
 external_link: "https://mp.weixin.qq.com/s/dsbV6B4qoBnSJBo56obTag"
-weight:1
+weight: 1
 ---
+
+
