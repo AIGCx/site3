@@ -473,6 +473,16 @@ a:hover {
   margin-left: 3px;
 }
 
+.hero-area .block .video-button img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
