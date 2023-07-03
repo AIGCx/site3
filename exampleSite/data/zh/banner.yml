@@ -4,6 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "images/favicon_b.png" # themify icon pack : https://themify.me/themify-icons
+  icon_image_webp : "images/favicon_b.webp"
   title : "中国AIGC产业联盟"
   content : "做困难但正确之事    把不可能变成可能"
   button:
