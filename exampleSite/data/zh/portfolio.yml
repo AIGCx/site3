@@ -2,7 +2,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : 专栏
+  title : 成员
   portfolio_item :
     # portfolio item loop
     - name : "胡泳"
