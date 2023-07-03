@@ -70,7 +70,7 @@ weight = 3
 #weight = 5
 
 [[Languages.zh.menu.main]]
-name = "资讯及活动"
+name = "动态"
 url = "#blog"
 weight = 6
 
