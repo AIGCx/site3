@@ -10,7 +10,7 @@
 	<div class="block">
 		{{ if .icon }}
 		<div class="video-button">
-			<i class="{{ .icon }}"></i>
+			<img src="{{ .icon | absURL }}" alt="Icon">
 		</div>
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
