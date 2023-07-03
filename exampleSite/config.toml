@@ -55,7 +55,7 @@ url = "#services"
 weight = 2
 
 [[Languages.zh.menu.main]]
-name = "专栏"
+name = "成员"
 url = "#portfolio"
 weight = 3
 
@@ -64,10 +64,10 @@ weight = 3
 # url = "#team"
 # weight = 4
 
-[[Languages.zh.menu.main]]
-name = "顾问团及秘书处"
-url = "#testimonial"
-weight = 5
+#[[Languages.zh.menu.main]]
+#name = "顾问团及秘书处"
+#url = "#testimonial"
+#weight = 5
 
 [[Languages.zh.menu.main]]
 name = "资讯及活动"
@@ -106,10 +106,10 @@ weight = 3
 # url = "#team"
 # weight = 4
 
-[[Languages.en.menu.main]]
-name = "Advisory Group and Secretariat"
-url = "#testimonial"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "Advisory Group and Secretariat"
+#url = "#testimonial"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "blog"
