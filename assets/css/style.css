@@ -480,7 +480,7 @@ a:hover {
   width: auto;
   height: auto;
   /*position: absolute;*/
-  top: -10px; /* Move the image 10 pixels up */
+  top: -5px; /* Move the image 10 pixels up */
   transform: translate(-50%, -50%);
 }
 
