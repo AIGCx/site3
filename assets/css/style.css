@@ -477,10 +477,9 @@ a:hover {
 .hero-area .block .video-button img {
   max-width: 100%;
   max-height: 100%;
-  width: auto;
-  height: auto;
+  width: 100px;
+  height: 100px;
   /*position: absolute;*/
-  top: -1px; /* Move the image 10 pixels up */
   transform: translate(-50%, -50%);
 }
 
