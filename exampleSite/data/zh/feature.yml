@@ -12,3 +12,6 @@ feature:
   feature_image2 : images/about/qrcode.jpg
   feature_image2: images/about/qrcode.webp
   join_message2: "扫码加入"
+
+  button_link : "https://aigcx.club/zh/blog/"
+  button_text : "过往活动"
