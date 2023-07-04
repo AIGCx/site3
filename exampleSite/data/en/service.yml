@@ -9,17 +9,16 @@ service:
       content : "Consensus. AIGCxChina aims to promote the application of AIGC technology in China and serve the upgrading of industries. AIGCxChina aggregates opinions in the form of a white paper to form collective consensus. All AIGC field researchers, practitioners, and managers who agree with the consensus are welcome to join.
 Co-construction. Volunteers from various regions can apply to become initiators of city AIGC industry alliances authorized by AIGCxChina, and have the right to use relevant AIGCxChina brands to carry out related activities locally.
 Sharing. AIGCxChina builds a national public service community, creates communication platforms and dissemination networks, promotes communication and cooperation among various regions, and achieves win-win results. All members can create, build, govern, and share together."
-      button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
-
-      button_text : "白皮书"
+      # button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
+      # button_text : "白皮书"
     # service item loop
     - name : Unified Brand Image
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : "1. Alliance logo. AIGCxChina Secretariat has produced a standardized brand identity toolkit and manual. Initiators from various regions should use the alliance logo in a standardized manner during discussions, competitions, and other activities to unify the external brand image. For details, please refer to the \"Alliance Brand Identity Specification\".
 2. Member usernames. The following format can be used: Yang Zhiping@AIGCxChina, Hu Ziran@AIGCxWenzhou. It is recommended to use real names to facilitate mutual trust.
-\n3. Online media. AIGCxChina will apply for public accounts and other self-media to promote important activities and information of the future Chinese and regional alliances. It welcomes various regions to set up their own self-media and contribute to AIGCxChina."
-      button_link : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
-      button_text : "Brand Specification"
+3. Online media. AIGCxChina will apply for public accounts and other self-media to promote important activities and information of the future Chinese and regional alliances. It welcomes various regions to set up their own self-media and contribute to AIGCxChina."
+      # button_link : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
+      # button_text : "Brand Specification"
 
     # service item loop
     - name : Standardize Member Rights and Responsibilities
@@ -27,14 +26,14 @@ Sharing. AIGCxChina builds a national public service community, creates communic
       content : "1. Main initiators. The earliest applicants and organizers of each city alliance, one person per city. It is recommended that connectors with strong innovation awareness and mobilization ability serve as initiators, and they should be recognized by volunteers in their cities and authorized by AIGCxChina after application. They can join the AIGCxChina national group using the real name + alliance suffix method. Those who perform outstandingly can be nominated as regional initiators in the future.
 2. Joint initiators. The main partners of the main initiators in each city, about 3-5 people per city. It is recommended to invite professionals with backgrounds in technology, media, industry, think tanks, etc. to join, and they should be recognized by the main initiators of the city alliance and reported to AIGCxChina for the record. They can join the AIGCxChina national group using the real name + alliance suffix method under the recommendation of the main initiators in the city.
 3. Volunteers. Other participants in each city alliance, with no limit on the number of people. They can be decided by the initiators in their cities, or invited by AIGCxChina directly."
-      button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
-      button_text : "Member Rights and Responsibilities"
+      # button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
+      # button_text : "Member Rights and Responsibilities"
 
     # service item loop
     - name : Encourage Practical Innovation
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : "City initiators need to clarify their goals, establish teams within one month after authorization, and complete 8 activities within a year, including discussions and competitions, and report to AIGCxChina for publication.
 Welcome to copy and hold competitions and activities that have been held, and refer to existing templates. Regional alliances should innovate activities, give full play to the advantages of AIGC, cooperate with the economic and information departments to comply with regulations, and link up with the media to increase exposure. Large-scale activities using the AIGCx brand logo need to be approved by the AIGCxChina Secretariat and authorized. When promoting the application of AIGC technology, it is necessary to comply with laws and regulations, public order, and good customs, avoid risks, and not use AIGCxChina for personal gain. The AIGCxChina Secretariat and AIGCxWenzhou will provide technical guidance and resource support for organizations in various regions, and support cross-city joint activities. For details, please refer to the White Paper."
-      button_link : "https://aigcx.club/zh/blog/"
-      button_text : "Past Activities"
+      # button_link : "https://aigcx.club/zh/blog/"
+      # button_text : "Past Activities"
 
