@@ -6,6 +6,7 @@
 ### 内容
 - site3/exampleSite/data/ 里面是网站首页文字（除最新文章外），要修改内容和图片看这里。
   - about.yml-关于我们
+  - feature.yml - 关于我们2
   - service-推动各地社群营造与活动组织
   - portfolio-热点
   - funfacts-数字
