@@ -6,25 +6,26 @@ service:
     # service item loop
     - name : 加强顶层设计
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : "共识。AIGCxChina以推动AIGC技术在中国应用落地，服务产业升级为目标。AIGCxChina以白皮书方式，聚合各方意见，形成集体共识，欢迎所有加纳共识的AIGC领域研究者、实践者和管理者加入。
-共建。各地志愿者可申请成为AIGCxChina授权的城市AIGC产业联盟的发起人，获得使用AIGCxChina相关品牌在当地开展相关活动的权利。
-共享。AIGCxChina搭建全国性公益服务社群，打造沟通平台和传播网络，推动各地间增进交流、加强合作、实现共赢，实现全体成员的共创、共建、共治、共享。"
+      content : "1. 共识。AIGCxChina以推动AIGC技术在中国应用落地，服务产业升级为目标。AIGCxChina以白皮书方式，聚合各方意见，形成集体共识，欢迎所有加纳共识的AIGC领域研究者、实践者和管理者加入。
+2. 共建。各地志愿者可申请成为AIGCxChina授权的城市AIGC产业联盟的发起人，获得使用AIGCxChina相关品牌在当地开展相关活动的权利。
+3. 共享。AIGCxChina搭建全国性公益服务社群，打造沟通平台和传播网络，推动各地间增进交流、加强合作、实现共赢，实现全体成员的共创、共建、共治、共享。"
       button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
       button_text : "白皮书"
     # service item loop
     - name : 统一品牌形象
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : "联盟标识。AIGCxChina秘书处制作了规范的品牌标识工具包和说明书，各地发起人在研讨、赛事等活动中应规范使用联盟标识，统一对外品牌形象。详情参见[联盟品牌标识规范](https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg)。
-成员网名。可参考以下格式，阳志平@AIGCxChina、胡自然@AIGCxWenzhou。建议用实名，方便大家相互建立信任。
-网络媒体。AIGCxChina将申请开通公众号等自媒体，做好未来中国和各地联盟的重要活动和信息推广，欢迎各地开设自己的自媒体并向AIGCxChina投稿。"
+      content : "1. 联盟标识。AIGCxChina秘书处制作了规范的品牌标识工具包和说明书，各地发起人在研讨、赛事等活动中应规范使用联盟标识，统一对外品牌形象。详情参见《联盟品牌标识规范》。
+2. 成员网名。可参考以下格式，中国AIGC产业联盟的阳志平，可用阳志平@AIGCxChina；温州AIGC产业联盟的胡自然，可用胡自然@AIGCxWenzhou。建议用实名，方便大家相互建立信任。
+3. 网络媒体。AIGCxChina将申请开通公众号等自媒体，做好未来中国和各地联盟的重要活动和信息推广，欢迎各地开设自己的自媒体并向AIGCxChina投稿。"
       button_link : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
       button_text : "品牌规范"
     # service item loop
     - name : 规范成员权责
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : "主要发起人。各城市联盟的最早申请人和组织者，每个城市1人，建议由具备较强创新意识和动员能力的连接者担任，由所在城市的志愿者向AIGCxChina申请后获得授权后认定。可使用实名+联盟后缀的方式加入AIGCxChina全国总群。表现突出的，未来可以提名为大区发起人。
-联合发起人。各城市主要发起人的主要合作伙伴，每个城市约3-5人，建议邀请技术、媒体、产业、智库等背景的专业人士加入，由所在城市联盟主要发起人认定，报AIGCxChina备案。可在城市主要发起人的推荐下，使用实名+联盟后缀的方式加入AIGCxChina全国总群。
-志愿者。各城市联盟的其他参与者，人数不限，可由所在城市发起人自行决定，邀请加入所在城市的地方小群。也可由AIGCxChina直接推荐和邀请。"
+      content : "各个城市可以参考温州模式，明确未来的成员名称。
+1. 主要发起人。各城市联盟的最早申请人和组织者，每个城市1人，建议由具备较强创新意识和动员能力的连接者担任，由所在城市的志愿者向AIGCxChina申请后获得授权后认定。可使用实名+联盟后缀的方式加入AIGCxChina全国总群。表现突出的，未来可以提名为大区发起人。
+2. 联合发起人。各城市主要发起人的主要合作伙伴，每个城市约3-5人，建议邀请技术、媒体、产业、智库等背景的专业人士加入，由所在城市联盟主要发起人认定，报AIGCxChina备案。可在城市主要发起人的推荐下，使用实名+联盟后缀的方式加入AIGCxChina全国总群。
+3. 志愿者。各城市联盟的其他参与者，人数不限，可由所在城市发起人自行决定，邀请加入所在城市的地方小群。也可由AIGCxChina直接推荐和邀请。"
       button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
       button_text : "成员权责"
     # service item loop
