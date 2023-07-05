@@ -84,10 +84,10 @@ weight = 6
 # url = "https://themefisher.com/"
 # weight = 8
 
-# [[Languages.zh.menu.main]]
-# name = "联系我们"
-# url = "#qrcode"
-# weight = 9
+[[Languages.zh.menu.main]]
+name = "联系我们"
+url = "#qrcode"
+weight = 9
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
@@ -149,10 +149,10 @@ weight = 6
 #url = "https://themefisher.com/"
 #weight = 8
 
-# [[Languages.zh.menu.main]]
-# name = "john us"
-# url = "#qrcode"
-# weight = 9
+[[Languages.zh.menu.main]]
+name = "john us"
+url = "#qrcode"
+weight = 9
 
 
 
