@@ -9,7 +9,7 @@
 	<meta name="author" content="{{ . }}">{{ end }}
 	
 	<!-- theme meta -->
-        <meta name="theme-name" content="meghna-hugo" />
+	<meta name="theme-name" content="meghna-hugo" />
 	{{ hugo.Generator }}
 
 	{{ "<!-- plugins -->" | safeHTML }}
@@ -23,7 +23,7 @@
 
 	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
 	{{ $custom := resources.Get "css/custom.css" | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+	<link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
@@ -33,13 +33,12 @@
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', '{{ . }}');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', '{{ . }}');
 	</script>
 	{{ end }}
 
+	<base target="_blank"> <!-- Add this line -->
 </head>
-
