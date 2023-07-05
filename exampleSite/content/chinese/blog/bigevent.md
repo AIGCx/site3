@@ -6,6 +6,5 @@ image: images/blog/bigevent.jpg
 author: AIGCX
 description: "这是元描述"
 external_link: "https://mp.weixin.qq.com/s/dsbV6B4qoBnSJBo56obTag"
-weight: 1
 ---
 
