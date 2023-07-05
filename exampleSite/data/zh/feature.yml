@@ -16,8 +16,8 @@ feature:
   button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
   button_text : "白皮书"
 
-  button_link : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
-  button_text : "品牌规范"
+  button_link1 : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
+  button_text1 : "品牌规范"
 
-  button_link : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
-  button_text : "成员权责"
+  button_link2 : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
+  button_text2 : "成员权责"
