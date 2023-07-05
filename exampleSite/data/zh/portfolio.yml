@@ -5,67 +5,125 @@ portfolio:
   title : 成员
   portfolio_item :
     # portfolio item loop
-    - name : "胡泳"
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["每日寄语"]
-      content : "AIGC是新时代的工业革命"
-      link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : [ "每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["每日寄语"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.
+      image: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.jpeg
+      image_webp: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.
+      image: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.jpeg
+      image_webp: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG58d096e2add1aae4b43f87af62a5b811.
+      image: WechatIMG58d096e2add1aae4b43f87af62a5b811.jpeg
+      image_webp: WechatIMG58d096e2add1aae4b43f87af62a5b811..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG283f0603f6249e0a2f8653f654a4ba06.
+      image: WechatIMG283f0603f6249e0a2f8653f654a4ba06.jpeg
+      image_webp: WechatIMG283f0603f6249e0a2f8653f654a4ba06..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.
+      image: WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.jpeg
+      image_webp: WechatIMGae992e2fe71fc9d1f4be665ee24d2eef..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.
+      image: WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.jpeg
+      image_webp: WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG73c41f45f9d4424881a59a80c2116953.
+      image: WechatIMG73c41f45f9d4424881a59a80c2116953.jpeg
+      image_webp: WechatIMG73c41f45f9d4424881a59a80c2116953..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGa562e6bd24069b7726276a8a736c03d2.
+      image: WechatIMGa562e6bd24069b7726276a8a736c03d2.jpeg
+      image_webp: WechatIMGa562e6bd24069b7726276a8a736c03d2..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG64bae9f6f8f227fa00bae4f585cab29f.
+      image: WechatIMG64bae9f6f8f227fa00bae4f585cab29f.jpeg
+      image_webp: WechatIMG64bae9f6f8f227fa00bae4f585cab29f..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.
+      image: WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.jpeg
+      image_webp: WechatIMGac3b7520e369dc8cd1f44ffaa34488d5..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG0b5f648cb6e03fbee637f3973748040c.
+      image: WechatIMG0b5f648cb6e03fbee637f3973748040c.jpeg
+      image_webp: WechatIMG0b5f648cb6e03fbee637f3973748040c..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc.
+      image: WechatIMGcf36cc8428b5a4e9118939db09d652bc.jpeg
+      image_webp: WechatIMGcf36cc8428b5a4e9118939db09d652bc..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG86399dfe90586eeae4b360f412782bab.
+      image: WechatIMG86399dfe90586eeae4b360f412782bab.jpeg
+      image_webp: WechatIMG86399dfe90586eeae4b360f412782bab..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG65a0d67b6151917402455273200a3f29.
+      image: WechatIMG65a0d67b6151917402455273200a3f29.jpeg
+      image_webp: WechatIMG65a0d67b6151917402455273200a3f29..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG6da1f62cf67fb2fa44098385b2124344.
+      image: WechatIMG6da1f62cf67fb2fa44098385b2124344.jpeg
+      image_webp: WechatIMG6da1f62cf67fb2fa44098385b2124344..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG9dc3420b3e93aa1d6c7a36683714d834.
+      image: WechatIMG9dc3420b3e93aa1d6c7a36683714d834.jpeg
+      image_webp: WechatIMG9dc3420b3e93aa1d6c7a36683714d834..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG01432a8eb32b37509ee949486a175114.
+      image: WechatIMG01432a8eb32b37509ee949486a175114.jpeg
+      image_webp: WechatIMG01432a8eb32b37509ee949486a175114..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGfc89a3f2041edc6de39abc3598f6adac.
+      image: WechatIMGfc89a3f2041edc6de39abc3598f6adac.jpeg
+      image_webp: WechatIMGfc89a3f2041edc6de39abc3598f6adac..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGe9b47e033ee11a83197b88fbe3422881.
+      image: WechatIMGe9b47e033ee11a83197b88fbe3422881.jpeg
+      image_webp: WechatIMGe9b47e033ee11a83197b88fbe3422881..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG9916f475ae07fbd82a35feabcd853c6e.
+      image: WechatIMG9916f475ae07fbd82a35feabcd853c6e.jpeg
+      image_webp: WechatIMG9916f475ae07fbd82a35feabcd853c6e..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG2d559f37e272c571d31ccf47f8bae35d.
+      image: WechatIMG2d559f37e272c571d31ccf47f8bae35d.jpeg
+      image_webp: WechatIMG2d559f37e272c571d31ccf47f8bae35d..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMG3882e12615571d78fbb9572a1ecb1bb7.
+      image: WechatIMG3882e12615571d78fbb9572a1ecb1bb7.jpeg
+      image_webp: WechatIMG3882e12615571d78fbb9572a1ecb1bb7..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGb5a3cc4b24a6da543516fe6679d6390f.
+      image: WechatIMGb5a3cc4b24a6da543516fe6679d6390f.jpeg
+      image_webp: WechatIMGb5a3cc4b24a6da543516fe6679d6390f..webp
+      categories: ["每日寄语"]
+
+    - name: WechatIMGe2c29dc105e7372ba04af197d667ca39.
+      image: WechatIMGe2c29dc105e7372ba04af197d667ca39.jpeg
+      image_webp: WechatIMGe2c29dc105e7372ba04af197d667ca39..webp
+      categories: ["每日寄语"]
+      #content : "AIGC是新时代的工业革命"
+      #link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
 
