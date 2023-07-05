@@ -1,28 +1,19 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.qrcode.qrcode.enable }}
+{{ if $data.qrcode.enable }}
 {{ with $data.qrcode.qrcode }}
 {{ if .button.enable }}
-<!-- Start Image Display Section -->
-<section id="image-display" class="parallax-section bg-1 section overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
-	<!-- this image is for trigger this section fallback background image -->
-	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" data-src="{{ .bg_image_webp | absURL }}" />
-	<div class="container">
-		<div class="row justify-content-center">
-			{{ range .counter_item }}
-			<div style="text-align: center; margin-top: 40px;">
-				<img src="{{ $data.qrcode.qrcode.qrcode_image1 | absURL }}" alt="QR Code Image 1" style="max-width: 14%; display: block; margin: 0 auto;">
-				<p style="color: white; font-size: 1.2em;">{{ .join_message1 }}</p>
-			</div>
-			<div style="text-align: center; margin-top: 40px;">
-				<img src="{{ $data.qrcode.qrcode.qrcode_image2 | absURL }}" alt="QR Code Image 2" style="max-width: 14%; display: block; margin: 0 auto;">
-				<p style="color: white; font-size: 1.2em;">{{ .join_message2 }}</p>
-			</div>
-			{{ end }}
-		</div>
-	</div>
-</section>
-<!-- /Image Display Section -->
+{{ with .button }}
+<div style="text-align: center; margin-top: 40px;">
+    <img src="{{ $.Site.BaseURL }}{{ .qrcode_image1 }}" alt="QR Code Image 1" style="max-width: 14%; display: block; margin: 0 auto;">
+    <p style="color: white; font-size: 1.2em;">{{ .join_message1 }}</p>
+</div>
+<div style="text-align: center; margin-top: 40px;">
+    <img src="{{ $.Site.BaseURL }}{{ .qrcode_image2 }}" alt="QR Code Image 2" style="max-width: 14%; display: block; margin: 0 auto;">
+    <p style="color: white; font-size: 1.2em;">{{ .join_message2 }}</p>
+</div>
 {{ end }}
 {{ end }}
-{{ end }}
+{{end}}
+{{end}}
+  
