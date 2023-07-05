@@ -6,100 +6,101 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.
-      image: images/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.jpeg
-      image_webp: images/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.webp
+      image: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.jpeg
+      image_webp: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.
-      image: images/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.jpeg
-      image_webp: images/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.webp
+      image: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.jpeg
+      image_webp: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG58d096e2add1aae4b43f87af62a5b811.
-      image: images/WechatIMG58d096e2add1aae4b43f87af62a5b811.jpeg
-      image_webp: images/WechatIMG58d096e2add1aae4b43f87af62a5b811.webp
+      image: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.jpeg
+      image_webp: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG283f0603f6249e0a2f8653f654a4ba06.
-      image: images/WechatIMG283f0603f6249e0a2f8653f654a4ba06.jpeg
-      image_webp: images/WechatIMG283f0603f6249e0a2f8653f654a4ba06.webp
+      image: images/portfolio/WechatIMG283f0603f6249e0a2f8653f654a4ba06.jpeg
+      image_webp: images/portfolio/WechatIMG283f0603f6249e0a2f8653f654a4ba06.webp
       categories: ["每日寄语"]
 
     - name: WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.
-      image: images/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.jpeg
-      image_webp: images/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.webp
+      image: images/portfolio/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.jpeg
+      image_webp: images/portfolio/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.
-      image: images/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.jpeg
-      image_webp: images/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.webp
+      image: images/portfolio/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.jpeg
+      image_webp: images/portfolio/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG73c41f45f9d4424881a59a80c2116953.
-      image: images/WechatIMG73c41f45f9d4424881a59a80c2116953.jpeg
-      image_webp: images/WechatIMG73c41f45f9d4424881a59a80c2116953.webp
+      image: images/portfolio/WechatIMG73c41f45f9d4424881a59a80c2116953.jpeg
+      image_webp: images/portfolio/WechatIMG73c41f45f9d4424881a59a80c2116953.webp
       categories: ["每日寄语"]
 
     - name: WechatIMGa562e6bd24069b7726276a8a736c03d2.
-      image: images/WechatIMGa562e6bd24069b7726276a8a736c03d2.jpeg
-      image_webp: images/WechatIMGa562e6bd24069b7726276a8a736c03d2.webp
+      image: images/portfolio/WechatIMGa562e6bd24069b7726276a8a736c03d2.jpeg
+      image_webp: images/portfolio/WechatIMGa562e6bd24069b7726276a8a736c03d2.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG64bae9f6f8f227fa00bae4f585cab29f.
-      image: images/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.jpeg
-      image_webp: images/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.webp
+      image: images/portfolio/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.jpeg
+      image_webp: images/portfolio/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.webp
       categories: ["每日寄语"]
 
     - name: WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.
-      image: images/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.jpeg
-      image_webp: images/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.webp
+      image: images/portfolio/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.jpeg
+      image_webp: images/portfolio/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG0b5f648cb6e03fbee637f3973748040c.
-      image: images/WechatIMG0b5f648cb6e03fbee637f3973748040c.jpeg
-      image_webp: images/WechatIMG0b5f648cb6e03fbee637f3973748040c.webp
+      image: images/portfolio/WechatIMG0b5f648cb6e03fbee637f3973748040c.jpeg
+      image_webp: images/portfolio/WechatIMG0b5f648cb6e03fbee637f3973748040c.webp
       categories: ["每日寄语"]
 
     - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc.
-      image: images/WechatIMGcf36cc8428b5a4e9118939db09d652bc.jpeg
-      image_webp: images/WechatIMGcf36cc8428b5a4e9118939db09d652bc.webp
+      image: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc.jpeg
+      image_webp: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG86399dfe90586eeae4b360f412782bab.
-      image: images/WechatIMG86399dfe90586eeae4b360f412782bab.jpeg
-      image_webp: images/WechatIMG86399dfe90586eeae4b360f412782bab.webp
+      image: images/portfolio/WechatIMG86399dfe90586eeae4b360f412782bab.jpeg
+      image_webp: images/portfolio/WechatIMG86399dfe90586eeae4b360f412782bab.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG65a0d67b6151917402455273200a3f29.
-      image: images/WechatIMG65a0d67b6151917402455273200a3f29.jpeg
-      image_webp: images/WechatIMG65a0d67b6151917402455273200a3f29.webp
+      image: images/portfolio/WechatIMG65a0d67b6151917402455273200a3f29.jpeg
+      image_webp: images/portfolio/WechatIMG65a0d67b6151917402455273200a3f29.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG6da1f62cf67fb2fa44098385b2124344.
-      image: images/WechatIMG6da1f62cf67fb2fa44098385b2124344.jpeg
-      image_webp: images/WechatIMG6da1f62cf67fb2fa44098385b2124344.webp
+      image: images/portfolio/WechatIMG6da1f62cf67fb2fa44098385b2124344.jpeg
+      image_webp: images/portfolio/WechatIMG6da1f62cf67fb2fa44098385b2124344.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG2d559f37e272c571d31ccf47f8bae35d.
-      image: images/WechatIMG2d559f37e272c571d31ccf47f8bae35d.jpeg
-      image_webp: images/WechatIMG2d559f37e272c571d31ccf47f8bae35d..webp
+      image: images/portfolio/WechatIMG2d559f37e272c571d31ccf47f8bae35d.jpeg
+      image_webp: images/portfolio/WechatIMG2d559f37e272c571d31ccf47f8bae35d..webp
       categories: ["每日寄语"]
 
     - name: WechatIMG3882e12615571d78fbb9572a1ecb1bb7.
-      image: images/WechatIMG3882e12615571d78fbb9572a1ecb1bb7.jpeg
-      image_webp: images/WechatIMG3882e12615571d78fbb9572a1ecb1bb7..webp
+      image: images/portfolio/WechatIMG3882e12615571d78fbb9572a1ecb1bb7.jpeg
+      image_webp: images/portfolio/WechatIMG3882e12615571d78fbb9572a1ecb1bb7..webp
       categories: ["每日寄语"]
 
     - name: WechatIMGb5a3cc4b24a6da543516fe6679d6390f.
-      image: images/WechatIMGb5a3cc4b24a6da543516fe6679d6390f.jpeg
-      image_webp: images/WechatIMGb5a3cc4b24a6da543516fe6679d6390f..webp
+      image: images/portfolio/WechatIMGb5a3cc4b24a6da543516fe6679d6390f.jpeg
+      image_webp: images/portfolio/WechatIMGb5a3cc4b24a6da543516fe6679d6390f..webp
       categories: ["每日寄语"]
 
     - name: WechatIMGe2c29dc105e7372ba04af197d667ca39.
-      image: images/WechatIMGe2c29dc105e7372ba04af197d667ca39.jpeg
-      image_webp: images/WechatIMGe2c29dc105e7372ba04af197d667ca39..webp
+      image: images/portfolio/WechatIMGe2c29dc105e7372ba04af197d667ca39.jpeg
+      image_webp: images/portfolio/WechatIMGe2c29dc105e7372ba04af197d667ca39..webp
       categories: ["每日寄语"]
       #content : "AIGC是新时代的工业革命"
       #link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
+
 
 

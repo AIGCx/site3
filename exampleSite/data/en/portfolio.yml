@@ -1,72 +1,106 @@
+
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Member
+  title : Members
   portfolio_item :
     # portfolio item loop
-    - name : "Hu Yong"
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["Daily Message"]
-      content : "AIGC is the new industrial revolution"
-      link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : [ "Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Daily Message"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.
+      image: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.jpeg
+      image_webp: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.webp
+      categories: ["Words"]
+
+    - name: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.
+      image: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.jpeg
+      image_webp: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.webp
+      categories: ["Words"]
+
+    - name: WechatIMG58d096e2add1aae4b43f87af62a5b811.
+      image: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.jpeg
+      image_webp: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.webp
+      categories: ["Words"]
+
+    - name: WechatIMG283f0603f6249e0a2f8653f654a4ba06.
+      image: images/portfolio/WechatIMG283f0603f6249e0a2f8653f654a4ba06.jpeg
+      image_webp: images/portfolio/WechatIMG283f0603f6249e0a2f8653f654a4ba06.webp
+      categories: ["Words"]
+
+    - name: WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.
+      image: images/portfolio/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.jpeg
+      image_webp: images/portfolio/WechatIMGae992e2fe71fc9d1f4be665ee24d2eef.webp
+      categories: ["Words"]
+
+    - name: WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.
+      image: images/portfolio/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.jpeg
+      image_webp: images/portfolio/WechatIMG4af2b1c5d8f01eca0f3fb83b773e05a8.webp
+      categories: ["Words"]
+
+    - name: WechatIMG73c41f45f9d4424881a59a80c2116953.
+      image: images/portfolio/WechatIMG73c41f45f9d4424881a59a80c2116953.jpeg
+      image_webp: images/portfolio/WechatIMG73c41f45f9d4424881a59a80c2116953.webp
+      categories: ["Words"]
+
+    - name: WechatIMGa562e6bd24069b7726276a8a736c03d2.
+      image: images/portfolio/WechatIMGa562e6bd24069b7726276a8a736c03d2.jpeg
+      image_webp: images/portfolio/WechatIMGa562e6bd24069b7726276a8a736c03d2.webp
+      categories: ["Words"]
+
+    - name: WechatIMG64bae9f6f8f227fa00bae4f585cab29f.
+      image: images/portfolio/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.jpeg
+      image_webp: images/portfolio/WechatIMG64bae9f6f8f227fa00bae4f585cab29f.webp
+      categories: ["Words"]
+
+    - name: WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.
+      image: images/portfolio/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.jpeg
+      image_webp: images/portfolio/WechatIMGac3b7520e369dc8cd1f44ffaa34488d5.webp
+      categories: ["Words"]
+
+    - name: WechatIMG0b5f648cb6e03fbee637f3973748040c.
+      image: images/portfolio/WechatIMG0b5f648cb6e03fbee637f3973748040c.jpeg
+      image_webp: images/portfolio/WechatIMG0b5f648cb6e03fbee637f3973748040c.webp
+      categories: ["Words"]
+
+    - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc.
+      image: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc.jpeg
+      image_webp: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc.webp
+      categories: ["Words"]
+
+    - name: WechatIMG86399dfe90586eeae4b360f412782bab.
+      image: images/portfolio/WechatIMG86399dfe90586eeae4b360f412782bab.jpeg
+      image_webp: images/portfolio/WechatIMG86399dfe90586eeae4b360f412782bab.webp
+      categories: ["Words"]
+
+    - name: WechatIMG65a0d67b6151917402455273200a3f29.
+      image: images/portfolio/WechatIMG65a0d67b6151917402455273200a3f29.jpeg
+      image_webp: images/portfolio/WechatIMG65a0d67b6151917402455273200a3f29.webp
+      categories: ["Words"]
+
+    - name: WechatIMG6da1f62cf67fb2fa44098385b2124344.
+      image: images/portfolio/WechatIMG6da1f62cf67fb2fa44098385b2124344.jpeg
+      image_webp: images/portfolio/WechatIMG6da1f62cf67fb2fa44098385b2124344.webp
+      categories: ["Words"]
+
+    - name: WechatIMG2d559f37e272c571d31ccf47f8bae35d.
+      image: images/portfolio/WechatIMG2d559f37e272c571d31ccf47f8bae35d.jpeg
+      image_webp: images/portfolio/WechatIMG2d559f37e272c571d31ccf47f8bae35d..webp
+      categories: ["Words"]
+
+    - name: WechatIMG3882e12615571d78fbb9572a1ecb1bb7.
+      image: images/portfolio/WechatIMG3882e12615571d78fbb9572a1ecb1bb7.jpeg
+      image_webp: images/portfolio/WechatIMG3882e12615571d78fbb9572a1ecb1bb7..webp
+      categories: ["Words"]
+
+    - name: WechatIMGb5a3cc4b24a6da543516fe6679d6390f.
+      image: images/portfolio/WechatIMGb5a3cc4b24a6da543516fe6679d6390f.jpeg
+      image_webp: images/portfolio/WechatIMGb5a3cc4b24a6da543516fe6679d6390f..webp
+      categories: ["Words"]
+
+    - name: WechatIMGe2c29dc105e7372ba04af197d667ca39.
+      image: images/portfolio/WechatIMGe2c29dc105e7372ba04af197d667ca39.jpeg
+      image_webp: images/portfolio/WechatIMGe2c29dc105e7372ba04af197d667ca39..webp
+      categories: ["Words"]
+      #content : "AIGC是新时代的工业革命"
+      #link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
 
 
 
