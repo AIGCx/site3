@@ -149,7 +149,7 @@ weight = 6
 #url = "https://themefisher.com/"
 #weight = 8
 
-[[Languages.zh.menu.main]]
+[[Languages.en.menu.main]]
 name = "john us"
 url = "#qrcode"
 weight = 9
