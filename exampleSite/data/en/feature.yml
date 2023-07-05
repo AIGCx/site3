@@ -12,3 +12,12 @@ feature:
   feature_image2 : images/about/qrcode.jpg
   feature_image2: images/about/qrcode.webp
   join_message2: "Follow us"
+
+  button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
+  button_text : "Standard"
+
+  button_link1 : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
+  button_text1 : "Brand Guidelines"
+
+  button_link2 : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
+  button_text2 : "Member Rights and Responsibilities"
