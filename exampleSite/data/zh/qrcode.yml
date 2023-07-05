@@ -1,0 +1,14 @@
+qrcode:
+  enable: true
+
+  qrcode:
+    button:
+      enable: true
+      button:
+        qrcode_image1 : "images/about/follow.jpg"
+        qrcode_image1: "images/about/follow.webp"
+        join_message1: "扫码关注"
+
+        qrcode_image2 : "images/about/qrcode.jpg"
+        qrcode_image2: "images/about/qrcode.webp"
+        join_message2: "扫码加入"  
