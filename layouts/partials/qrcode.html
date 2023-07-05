@@ -9,7 +9,7 @@
 	<p style="color: white; font-size: 1.2em;">{{ .join_message1 }}</p>
 </div>
 <div style="text-align: center; margin-top: 40px;">
-	<img src="$data.qrcode.qrcode.qrcode_image2" alt="QR Code Image 2" style="max-width: 14%; display: block; margin: 0 auto;">
+	<img src="{{ $data.qrcode.qrcode.qrcode_image2 | absURL }}" alt="QR Code Image 2" style="max-width: 14%; display: block; margin: 0 auto;">
 	<p style="color: white; font-size: 1.2em;">{{ .join_message2 }}</p>
 </div>
 {{ end }}
