@@ -15,6 +15,7 @@
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
+		<p>{{ .content1 | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<div style="text-align: center; margin-top: 40px;">

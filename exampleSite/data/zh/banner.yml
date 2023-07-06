@@ -5,7 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "images/favicon.png" # themify icon pack : https://themify.me/themify-icons
   title : "中国AIGC产业联盟"
-  content : "做困难但正确之事\n把不可能变成可能"
+  content : "做困难但正确之事"
+  content1 : "把不可能变成可能"
   button:
     enable : true
     label : "了解我们"
