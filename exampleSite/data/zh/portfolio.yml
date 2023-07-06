@@ -5,19 +5,9 @@ portfolio:
   title : 成员
   portfolio_item :
     # portfolio item loop
-    - name: WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.
-      image: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.jpeg
-      image_webp: images/portfolio/WechatIMGcf36cc8428b5a4e9118939db09d652bc 1.webp
-      categories: ["每日寄语"]
-
     - name: WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.
       image: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.jpeg
       image_webp: images/portfolio/WechatIMG0bee3c54fe0218b99a3f93b4b930dea4.webp
-      categories: ["每日寄语"]
-
-    - name: WechatIMG58d096e2add1aae4b43f87af62a5b811.
-      image: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.jpeg
-      image_webp: images/portfolio/WechatIMG58d096e2add1aae4b43f87af62a5b811.webp
       categories: ["每日寄语"]
 
     - name: WechatIMG283f0603f6249e0a2f8653f654a4ba06.
