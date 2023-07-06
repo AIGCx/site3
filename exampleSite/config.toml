@@ -86,7 +86,7 @@ weight = 6
 
 [[Languages.zh.menu.main]]
 name = "联系我们"
-url = "#qrcode"
+url = "#skill"
 weight = 9
 
 ################### English Navigation ########################
