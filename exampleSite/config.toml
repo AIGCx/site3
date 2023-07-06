@@ -160,7 +160,8 @@ weight = 9
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "做困难但正确之事  把不可能变成可能"
+description = "做困难但正确之事"
+description1 = "把不可能变成可能"
 author = "Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
