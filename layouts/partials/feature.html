@@ -16,37 +16,18 @@
 					<p>{{ .content | markdownify }}</p>
 					<div class="row">
 						<div class="col-lg-6">
-							<div class="media">
-								<div style="display: flex; justify-content: space-between;">
-									<!-- 注释掉
-									<div style="text-align: center;">
-										<img src="{{ $data.feature.feature.feature_image1 | absURL }}" alt="Feature Image 1" style="max-width: 55%; display: block; margin: 0 auto;">
-										<p style="color: white; font-size: 1.2em;">{{ .join_message1 }}</p>
+							<a class="btn btn-main" href="{{ .button_link }}">{{ .button_text }}</a>
 
-									</div>
-									<div style="text-align: center;">
-										<img src="{{ $data.feature.feature.feature_image2 | absURL }}" alt="Feature Image 2" style="max-width: 80%; display: block; margin: 0 auto;">
-										<p style="color: white; font-size: 1.2em;">{{ .join_message2 }}</p>
-									</div>
-									-->
-									<div class="all-post text-center col-lg-1">
-										<a class="btn btn-main" href="{{ .button_link }}">{{ .button_text }}</a>
-									</div>
-									<div class="all-post text-center col-lg-1">
-										<a class="btn btn-main" href="{{ .button_link1 }}">{{ .button_text1 }}</a>
-									</div>
-									<div class="all-post text-center col-lg-1">
-										<a class="btn btn-main" href="{{ .button_link2 }}">{{ .button_text2 }}</a>
-									</div>
-									<div class="all-post text-center col-lg-1">
-										<a class="btn btn-main" href="{{ .button_link3 }}">{{ .button_text3 }}</a>
-									</div>
-									<div class="all-post text-center col-lg-1">
-										<a class="btn btn-main" href="{{ .button_link4 }}">{{ .button_text4 }}</a>
-									</div>
-								</div>
-							</div>
-							
+							<a class="btn btn-main" href="{{ .button_link1 }}">{{ .button_text1 }}</a>
+
+				
+							<a class="btn btn-main" href="{{ .button_link2 }}">{{ .button_text2 }}</a>
+
+
+							<a class="btn btn-main" href="{{ .button_link3 }}">{{ .button_text3 }}</a>
+
+							<a class="btn btn-main" href="{{ .button_link4 }}">{{ .button_text4 }}</a>
+
 						</div>
 					</div>
 				</div>
