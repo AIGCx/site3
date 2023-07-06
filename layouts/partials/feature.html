@@ -16,18 +16,13 @@
 					<p>{{ .content | markdownify }}</p>
 					<div class="row">
 						<div class="col-lg-6">
-							<a class="btn btn-main" href="{{ .button_link }}">{{ .button_text }}</a>
-
-							<a class="btn btn-main" href="{{ .button_link1 }}">{{ .button_text1 }}</a>
-
-				
-							<a class="btn btn-main" href="{{ .button_link2 }}">{{ .button_text2 }}</a>
-
-
-							<a class="btn btn-main" href="{{ .button_link3 }}">{{ .button_text3 }}</a>
-
-							<a class="btn btn-main" href="{{ .button_link4 }}">{{ .button_text4 }}</a>
-
+							<div class="btn-group">
+								<a class="btn btn-main" href="{{ .button_link }}">{{ .button_text }}</a>
+								<a class="btn btn-main" href="{{ .button_link1 }}">{{ .button_text1 }}</a>
+								<a class="btn btn-main" href="{{ .button_link2 }}">{{ .button_text2 }}</a>
+								<a class="btn btn-main" href="{{ .button_link3 }}">{{ .button_text3 }}</a>
+								<a class="btn btn-main" href="{{ .button_link4 }}">{{ .button_text4 }}</a>
+							</div>
 						</div>
 					</div>
 				</div>
