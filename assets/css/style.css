@@ -1009,6 +1009,11 @@ a:hover {
   transition: all 0.3s ease 0s;
 }
 
+/* 添加 .text-left-align 样式规则 */
+.text-left-align {
+  text-align: left !important;
+}
+
 /*=================================================================
   Our skills
 ==================================================================*/
