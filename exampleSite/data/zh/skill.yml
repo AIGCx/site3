@@ -6,6 +6,8 @@ skill:
   content : "扫码关注"
   image : images/about/follow.webp
 
+  content1 : "加入我们"
+
 
   feature_image2 : images/about/qrcode.jpg
   feature_image2: images/about/qrcode.webp
