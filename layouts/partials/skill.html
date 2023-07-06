@@ -20,14 +20,14 @@
 			<div class="col-lg-6">
 				<!--<h2>{{ .subtitle | markdownify }}</h2>-->
 				{{ with .image }}
-				<img src="{{ $data.feature.feature.feature_image1 | absURL }}" alt="Feature Image 1" style="max-width: 55%; display: block; margin: 0 auto;">
+				<img src="{{ $data.feature.feature.feature_image1 | absURL }}" alt="Feature Image 1" style="max-width: 30%; display: block; margin: 0 auto;">
 				{{ end }}
 				<p style="text-align: center;"> {{ .content | markdownify }}</p>
 			</div>
 			<div class="col-lg-6">
 				<!--<h2>{{ .subtitle | markdownify }}</h2> -->
 				{{ with .image }}
-				<img src="{{ $data.feature.feature.feature_image2 | absURL }}" alt="Feature Image 2" style="max-width: 80%; display: block; margin: 0 auto;">
+				<img src="{{ $data.feature.feature.feature_image2 | absURL }}" alt="Feature Image 2" style="max-width: 45%; display: block; margin: 0 auto;">
 				{{ end }}
 				<p style="text-align: center;"> {{ .content1 | markdownify }}</p>
 			</div>
