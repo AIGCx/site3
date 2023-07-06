@@ -3,8 +3,13 @@ skill:
   enable : true
   #title : Our Skills
   #subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : 关注我们
-  image : images/about/company-growth.webp
+  content : "扫码关注"
+  image : images/about/follow.webp
+
+
+  feature_image2 : images/about/qrcode.jpg
+  feature_image2: images/about/qrcode.webp
+  join_message2: "扫码加入"
   # skill_item :
   #   # skill item loop
   #   - name :  Business Development
