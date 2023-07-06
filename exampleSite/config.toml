@@ -186,13 +186,13 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 # qrcode
-[params.qrcode]
-enable = true
-  [params.qrcode.qrcode]
-  button.enable = true
-  [params.qrcode.qrcode.button]
-  join_message1 = "关注我们"
-  join_message2 = "加入我们"
+#[params.qrcode]
+#enable = true
+#  [params.qrcode.qrcode]
+#  button.enable = true
+#  [params.qrcode.qrcode.button]
+#  join_message1 = "关注我们"
+#  join_message2 = "加入我们"
 
 ############################# social icons ##########################
 #[[params.social]]
