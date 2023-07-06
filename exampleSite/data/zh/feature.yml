@@ -13,11 +13,17 @@ feature:
   feature_image2: images/about/qrcode.webp
   join_message2: "扫码加入"
 
-  button_link : "https://mp.weixin.qq.com/s/GIOWJmguzuF5PFgupRbEOQ"
+  button_link : "https://mp.weixin.qq.com/s/ntO8_bh-dr1WYc4eVUCZ8w"
   button_text : "白皮书"
 
   button_link1 : "https://mp.weixin.qq.com/s/XPNfuLOt36qSNDLujZx8Lg"
   button_text1 : "品牌规范"
 
   button_link2 : "https://mp.weixin.qq.com/s/5d7US6Fw_FDhIo9mLQGUqA"
-  button_text2 : "成员权责"
+  button_text2 : "秘书处"
+
+  button_link3 : "https://mp.weixin.qq.com/s/ntO8_bh-dr1WYc4eVUCZ8w"
+  button_text3 : "顾问团"
+
+  button_link4 : "https://mp.weixin.qq.com/s/dsbV6B4qoBnSJBo56obTag"
+  button_text4 : "大事记"
