@@ -52,7 +52,7 @@
 - 链接放在：site3/exampleSite/data/service.yml 
 
 ### 如何添加每日寄语
-- 在data/portfolio.yml 中增加：名字、图片
+- 在[site3/exampleSite/data/zh/portfolio.yml](https://github.com/AIGCx/site3/blob/main/exampleSite/data/zh/portfolio.yml) 中增加：名字、图片
 ```
    # portfolio item loop
     - name : "Hu Yong"（更改）
@@ -63,7 +63,7 @@
       link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
 ```
 
-图片储存在 site3/exampleSite/static/images/portfolio 中，图片名要一致。
+图片储存在 [site3/exampleSite/static/images/portfolio](https://github.com/AIGCx/site3/tree/main/exampleSite/static/images/portfolio) 中，图片名要一致。
 categories：都是每日寄语，不要改。
 - 后续如果有其他专栏的话，增加：categories
 
