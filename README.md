@@ -53,15 +53,15 @@
 
 ### 如何添加每日寄语
 - 在data/portfolio.yml 中增加：名字、图片
-  """
-    # portfolio item loop
+```
+   # portfolio item loop
     - name : "Hu Yong"（更改）
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["每日寄语"]
       content : "AIGC is the new industrial revolution"
       link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
-"""
+```
 
 图片储存在 site3/exampleSite/static/images/portfolio 中，图片名要一致。
 categories：都是每日寄语，不要改。
