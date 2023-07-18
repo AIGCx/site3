@@ -53,7 +53,7 @@
 
 ### 如何添加每日寄语
 - 在data/portfolio.yml 中增加：名字、图片
-'''
+  """
     # portfolio item loop
     - name : "Hu Yong"（更改）
       image : images/portfolio/portfolio-1.jpg
@@ -61,25 +61,25 @@
       categories : ["每日寄语"]
       content : "AIGC is the new industrial revolution"
       link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
-'''
+"""
 
 图片储存在 site3/exampleSite/static/images/portfolio 中，图片名要一致。
 categories：都是每日寄语，不要改。
 - 后续如果有其他专栏的话，增加：categories
 
 ### 如何更改数字
-- site3/exampleSite/data/zh/funfacts.yml
+- [site3/exampleSite/static/images/portfolio at main · AIGCx/site3](https://github.com/AIGCx/site3/tree/main/exampleSite/static/images/portfolio)
 
 ### 如何增删改顾问团成员
 - [site3/exampleSite/data/zh/testimonial.yml at main · AIGCx/site3](https://github.com/AIGCx/site3/blob/main/exampleSite/data/zh/testimonial.yml)
-- 图片储存：site3/exampleSite/static/images/portfolio
+- 图片储存：[site3/exampleSite/static/images/portfolio at main · AIGCx/site3](https://github.com/AIGCx/site3/tree/main/exampleSite/static/images/portfolio)
 
 ### 如何添加新文章
-- site3/exampleSite/content 新增.md 文件
+- 在[site3/exampleSite/content/chinese/blog at main · AIGCx/site3](https://github.com/AIGCx/site3/tree/main/exampleSite/content/chinese/blog) 新增.md 文件
   - 如果用外链，external_link: " " 添加到引号内
   - 不用外链，将external_link: " "删掉，直接在---- 下面用markdown格式写正文。
   - 需要置顶或者靠前显示：增加：weight：1 数字越小越靠前。
-- 中英文都改
+- 中英文都改，英文的：[site3/exampleSite/content/english/blog at main · AIGCx/site3](https://github.com/AIGCx/site3/tree/main/exampleSite/content/english/blog)
 - 图片储存在/Users/liguanghe/site3/exampleSite/static/images/blog
 
 ----
