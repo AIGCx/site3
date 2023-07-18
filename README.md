@@ -62,6 +62,7 @@
       content : "AIGC is the new industrial revolution"
       link : "https://mp.weixin.qq.com/s/DZF09dLETODg0-HuV9Gnyw"
 '''
+
 图片储存在 site3/exampleSite/static/images/portfolio 中，图片名要一致。
 categories：都是每日寄语，不要改。
 - 后续如果有其他专栏的话，增加：categories
@@ -70,7 +71,7 @@ categories：都是每日寄语，不要改。
 - site3/exampleSite/data/zh/funfacts.yml
 
 ### 如何增删改顾问团成员
-- site3/exampleSite/data/zh/testimonial.yml
+- [site3/exampleSite/data/zh/testimonial.yml at main · AIGCx/site3](https://github.com/AIGCx/site3/blob/main/exampleSite/data/zh/testimonial.yml)
 - 图片储存：site3/exampleSite/static/images/portfolio
 
 ### 如何添加新文章
